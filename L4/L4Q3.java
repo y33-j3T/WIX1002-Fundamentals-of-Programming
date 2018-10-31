@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l4q3;
-
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class L4Q3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         double avg, std;
         int max = 0, min = 0, N = 0,  score = 0, sum = 0, sum_sq = 0, temp;
@@ -59,6 +45,7 @@ public class L4Q3 {
             System.out.printf("Average Score: %-6.2f\n", avg);
             System.out.printf("Standard Deviation: %-6.2f\n", std);
         }
+        
     }
     
 }
