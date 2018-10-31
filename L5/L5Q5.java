@@ -1,22 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l5q5;
-
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class L5Q5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         Scanner s = new Scanner(System.in);
@@ -92,5 +78,4 @@ public class L5Q5 {
         System.out.println(num + " found");
         System.out.println("Binary Search - " + loop_count + " loop(s)");
     }
-    
 }
