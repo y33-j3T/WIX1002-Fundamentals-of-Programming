@@ -27,8 +27,6 @@ public class L1Q4 {
         System.out.println(" MAY |###############################");
         System.out.println(" JUN |########");
         System.out.println("     |====|====|====|====|====|====|====|====|==> Amount x  10^2");
-        System.out.println("     0    5    10   15   20   25   30   35   40   ");
-        
+        System.out.println("     0    5    10   15   20   25   30   35   40   ");   
     }
-    
 }
