@@ -1,9 +1,9 @@
 # Fundamentals-of-Programming-Java
-## Java code examples for beginners
+### *Java code examples for beginners*
 
 ### L1 Getting Started with Java
 
-### L2 Java Fundamental
+### L2 Java Fundamentals
 
 ### L3 Flow of Control (Selection)
 
