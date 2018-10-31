@@ -1,20 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l3q4;
-
 import java.util.Random;
-/**
- *
- * @author wid180503
- */
+
 public class L3Q4 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         final int MAX = 6;
@@ -42,11 +29,10 @@ public class L3Q4 {
         
         else if (p1 < p2){
             System.out.println("Player two wins!");
-        }
-        
-        else {
+        } else {
             System.out.println("Draw!");
         }
+        
     }
     
 }
