@@ -1,22 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l5q1;
-
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class L5Q1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         Scanner s = new Scanner(System.in);
@@ -30,11 +16,9 @@ public class L5Q1 {
             list_of_score[i] = r.nextInt(101);
         }
         
-        //
         for (int score : list_of_score){
             System.out.println(score);
         }
-        //
         
         double score_avg, score_hi=list_of_score[0], score_lo=list_of_score[0], sum_of_score=0;
         
