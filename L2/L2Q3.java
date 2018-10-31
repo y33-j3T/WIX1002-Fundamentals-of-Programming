@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package threerandnum;
-
 import java.util.Random;
 
-/**
- *
- * @author wid180503
- */
 public class ThreeRandNum {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         double total = 0;
@@ -39,8 +25,6 @@ public class ThreeRandNum {
         
         avg = total/3;
         System.out.printf("The average of numbers is %-6.2f\n", avg);
-        
-        
         
     }
     
