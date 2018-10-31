@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l3q5;
-
 import java.util.Scanner;
 
-/**
- *
- * @author wid180503
- */
 public class L3Q5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         double a, b, c, d, e, f, x, y;
         Scanner s = new Scanner(System.in);
@@ -40,15 +26,12 @@ public class L3Q5 {
         
         if (((a*d)-(b*c)) == 0){
             System.out.println("The equation has no solution");
-        }
-        
-        else {
+        } else {
             x = ((e*d)-(b*f))/((a*d)-(b*c));
             y = ((a*f)-(e*c))/((a*d)-(b*c));
             System.out.printf("x: %.2f\ny: %.2f\n",x, y);
-        
-          
         }
+        
     }
     
 }
