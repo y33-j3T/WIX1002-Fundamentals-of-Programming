@@ -1,7 +1,7 @@
 # Fundamentals-of-Programming-Java
 ## Java code examples for beginners
 
-### L1 [Getting Started with Java](https://github.com/y33-j3T/Fundamentals-of-Programming-Java/tree/master/L1)
+### L1 Getting Started with Java
 
 ### L2 Java Fundamental
 
