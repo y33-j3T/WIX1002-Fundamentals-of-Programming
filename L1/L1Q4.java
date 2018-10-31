@@ -1,4 +1,3 @@
-
 public class L1Q4 {
 
     public static void main(String[] args) {
