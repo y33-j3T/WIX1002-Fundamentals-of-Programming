@@ -1,5 +1,5 @@
 # Lesson 1
-## Getting Starting with Java
+### Getting Started with Java
 
 #### Q1 Installing [NetBeans](http://netbeans.apache.org/download/index.html) (IDE for Java)
 
