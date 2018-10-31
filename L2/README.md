@@ -1,4 +1,4 @@
-# Lesson 2 Java Fundamental
+# Lesson 2 - Java Fundamentals
 
 #### Q1
 
