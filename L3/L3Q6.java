@@ -1,3 +1,5 @@
+package l3q6;
+
 import static java.lang.Math.sqrt;
 import java.util.Scanner;
 
@@ -14,13 +16,8 @@ public class L3Q6 {
         
         if (sqrt((x*x) + (y*y)) <= r){
             System.out.println("Inside of circle");
-        }
-        
-        else {
+        } else {
             System.out.println("Outside of circle");
         }
-        
     }
-    
 }
-

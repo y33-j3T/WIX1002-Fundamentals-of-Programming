@@ -1,3 +1,5 @@
+package l3q2;
+
 import java.util.Random;
 
 public class L3Q2 {
@@ -5,7 +7,6 @@ public class L3Q2 {
     public static void main(String[] args) {
         Random r = new Random();
         int randInt = r.nextInt(6);
-        
         switch (randInt){
             case 0:
                 System.out.println(randInt + " is" + " zero"  );
@@ -31,6 +32,7 @@ public class L3Q2 {
                 System.out.println(randInt + " is " + " five" );
                 break;
         }
+        
         
     }
     

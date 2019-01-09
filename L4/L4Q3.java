@@ -1,3 +1,5 @@
+package l4q3;
+
 import java.util.Scanner;
 
 public class L4Q3 {
@@ -45,7 +47,6 @@ public class L4Q3 {
             System.out.printf("Average Score: %-6.2f\n", avg);
             System.out.printf("Standard Deviation: %-6.2f\n", std);
         }
-        
     }
     
 }

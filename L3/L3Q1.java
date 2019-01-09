@@ -1,3 +1,5 @@
+package l3q1;
+
 import java.util.Scanner;
 
 public class L3Q1 {
@@ -8,11 +10,9 @@ public class L3Q1 {
         int a = s.nextInt();
         int b = s.nextInt();
         int c;
-        
         System.out.print("Enter the operand: ");
         String z = s.next();
         char i = z.charAt(0);
-        
         switch (i){
             case '+':
                 c = a + b;
@@ -39,7 +39,6 @@ public class L3Q1 {
                 System.out.println(a + " % " + b + " = " + c);
                 break;
         }
-        
     }
     
 }

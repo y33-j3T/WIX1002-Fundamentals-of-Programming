@@ -1,3 +1,5 @@
+package l4q1;
+
 import java.util.Scanner;
 
 public class L4Q1 {
@@ -13,7 +15,7 @@ public class L4Q1 {
         for (int i = 2; i <= input; i++){
             if (input % i == 0){
                 System.out.print(", " + i);
-            } else continue;
+            }            
         }
         
         System.out.println();

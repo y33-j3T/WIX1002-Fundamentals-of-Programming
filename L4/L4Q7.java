@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package l4q7;
 
+import java.util.Scanner;
 public class L4Q7 {
 
     public static void main(String[] args) {

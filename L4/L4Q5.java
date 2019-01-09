@@ -1,3 +1,5 @@
+package l4q5;
+
 import java.util.Scanner;
 import java.util.Random;
 
@@ -36,4 +38,5 @@ public class L4Q5 {
             System.out.println("Player 2 wins!");
         }
     }
+    
 }

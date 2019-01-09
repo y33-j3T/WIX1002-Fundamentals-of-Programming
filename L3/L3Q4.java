@@ -1,3 +1,5 @@
+package l3q4;
+
 import java.util.Random;
 
 public class L3Q4 {
@@ -29,10 +31,11 @@ public class L3Q4 {
         
         else if (p1 < p2){
             System.out.println("Player two wins!");
-        } else {
-            System.out.println("Draw!");
         }
         
+        else {
+            System.out.println("Draw!");
+        }
     }
     
 }

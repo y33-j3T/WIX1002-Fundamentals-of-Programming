@@ -1,3 +1,5 @@
+package l3q3;
+
 import java.util.Scanner;
 
 public class L3Q3 {

@@ -1,3 +1,5 @@
+package l5q1;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -16,9 +18,11 @@ public class L5Q1 {
             list_of_score[i] = r.nextInt(101);
         }
         
+        //
         for (int score : list_of_score){
             System.out.println(score);
         }
+        //
         
         double score_avg, score_hi=list_of_score[0], score_lo=list_of_score[0], sum_of_score=0;
         

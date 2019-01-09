@@ -1,3 +1,5 @@
+package l4q8;
+
 import java.util.Random;
 
 public class L4Q8 {

@@ -1,3 +1,5 @@
+package l3q5;
+
 import java.util.Scanner;
 
 public class L3Q5 {
@@ -29,9 +31,7 @@ public class L3Q5 {
         } else {
             x = ((e*d)-(b*f))/((a*d)-(b*c));
             y = ((a*f)-(e*c))/((a*d)-(b*c));
-            System.out.printf("x: %.2f\ny: %.2f\n",x, y);
+            System.out.printf("x: %.2f\ny: %.2f\n",x, y);  
         }
-        
     }
-    
 }

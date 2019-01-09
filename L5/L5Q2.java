@@ -1,3 +1,5 @@
+package l5q2;
+
 import java.util.Random;
 
 public class L5Q2 {
