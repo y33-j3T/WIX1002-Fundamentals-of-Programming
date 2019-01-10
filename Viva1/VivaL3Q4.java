@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package vival3q4;
-
 import java.util.Random;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class VivaL3Q4 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         int MAX = 6;
@@ -36,7 +22,6 @@ public class VivaL3Q4 {
             System.out.println("Player 1: +5 scores");
             System.out.println("Player 1: " + p1 + "\n");
         }
-        
         else if (p11 == 6 && p12 == 6){
             p1 -= 5;
             System.out.println("Player 1: -5 scores");
@@ -58,7 +43,6 @@ public class VivaL3Q4 {
             System.out.println("Player 2: +5 scores");
             System.out.println("Player 2: " + p2 + "\n");
         }
-        
         else if (p21 == 6 && p22 == 6){
             p2 -= 5;
             System.out.println("Player 2: -5 scores");
@@ -69,8 +53,6 @@ public class VivaL3Q4 {
             System.out.println("Player 1 wins!");
         } else {
             System.out.println("Player 2 wins!");
-        }
-        
+        }   
     }
-    
 }

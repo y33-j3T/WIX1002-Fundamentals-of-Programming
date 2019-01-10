@@ -1,5 +1,3 @@
-package l8q2;
-
 public class BankAccount {
     private final String name;
     private final String icNum;

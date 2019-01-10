@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class EnergyHeatWater {
+public class L2Q6 {
 
     public static void main(String[] args) {
-        double Q, tempI, tempF, M;
         Scanner s = new Scanner(System.in);
+        double Q, tempI, tempF, M;
         
         System.out.print("Weight of water in kg: ");
         M = s.nextDouble();
@@ -17,7 +17,5 @@ public class EnergyHeatWater {
         
         Q = M * (tempF - tempI) * 4184;
         System.out.printf("The energy needed to heat water is %6.6f joules\n", Q);
-        
     }
-    
 }

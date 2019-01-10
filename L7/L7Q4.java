@@ -1,5 +1,3 @@
-package l7q4;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -17,8 +15,7 @@ public class L7Q4 {
                 line_num++;
                 char_num += line.length();
                 word_num += line.split(" ").length;
-            }
-            
+            }            
         } catch (FileNotFoundException e){
             System.out.println("File not found");
         }
@@ -26,6 +23,5 @@ public class L7Q4 {
         System.out.println("Number of characters: " + char_num);
         System.out.println("Number of words: " + word_num);
         System.out.println("Number of lines: " + line_num);
-    }
-    
+    }    
 }

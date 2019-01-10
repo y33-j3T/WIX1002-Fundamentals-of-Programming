@@ -1,22 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l6q5;
-
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class L6Q5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Random r = new Random();
@@ -36,8 +22,7 @@ public class L6Q5 {
             if(multCheck(a, b, c)){
                 score++;
             }
-        }
-        
+        }        
         System.out.println("Your score is " + score);
     }
     
@@ -45,9 +30,7 @@ public class L6Q5 {
         boolean valid = false;
         if (c == a*b){
             valid = true;
-        } 
-        
+        }        
         return valid;
-    }
-    
+    }    
 }

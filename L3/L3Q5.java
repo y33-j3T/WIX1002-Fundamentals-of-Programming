@@ -1,12 +1,11 @@
-package l3q5;
-
 import java.util.Scanner;
 
 public class L3Q5 {
 
     public static void main(String[] args) {
-        double a, b, c, d, e, f, x, y;
         Scanner s = new Scanner(System.in);
+        double a, b, c, d, e, f, x, y;
+        
         System.out.print("Input a: ");
         a = s.nextDouble();
         System.out.println();

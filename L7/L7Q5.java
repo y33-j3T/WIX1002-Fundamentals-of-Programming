@@ -1,5 +1,3 @@
-package l7q5;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -61,5 +59,4 @@ public class L7Q5 {
             System.out.println("Problem reading file");
         }
     }
-    
 }

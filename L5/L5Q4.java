@@ -1,5 +1,3 @@
-package l5q4;
-
 import java.util.Scanner;
 
 public class L5Q4 {

@@ -1,11 +1,10 @@
-package l4q4;
-
 import java.util.Scanner;
 
 public class L4Q4 {
     
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
+
         int year, input = 0;
         String str_day;
         
@@ -15,8 +14,8 @@ public class L4Q4 {
         System.out.print("Enter the first day of year(Monday - Friday): ");
         str_day = s.next();
         
-        //System.out.print("Enter the month to view(1 - 12): ");
-        //input = s.nextInt();
+//        System.out.print("Enter the month to view(1 - 12): ");
+//        input = s.nextInt();
         
         System.out.println();
         
@@ -60,10 +59,10 @@ public class L4Q4 {
                 break;
         }
         
-        //month
+//        month
         month = input - 1;
         
-        //no. of days in each month       
+//        no. of days in each month       
         month_space[0] = 31;
         month_space[2] = 31;
         month_space[3] = 30;
@@ -81,15 +80,15 @@ public class L4Q4 {
             month_space[1] = 28;
         }
         
-        //total no. of days in the months skipped
+//        total no. of days in the months skipped
         for (int i = 0; i < month; i++){
             initial_days += month_space[i];
         }
         
-        //no. of empty space at the start of each month
+//        no. of empty space at the start of each month
         empty_space = (initial_space + initial_days) % 7;
         
-        //prints calendar header
+//        prints calendar header
         System.out.print("      ");
         
         switch(input){
@@ -135,12 +134,12 @@ public class L4Q4 {
         System.out.println();
         System.out.println("S  M  T  W  T  F  S");
 
-        //prints empty space
+//        prints empty space
         for (int i = 1 ; i <= empty_space ; i++){
             System.out.print("   ");
         }
 
-        //prints following dates
+//        prints following dates
         for (int i = 1 ; i <= month_space[input - 1] ; i++){
             System.out.printf("%-3d", i);
 
@@ -151,7 +150,4 @@ public class L4Q4 {
         
         System.out.println("\n");
     }
-    
-    
-    
 }

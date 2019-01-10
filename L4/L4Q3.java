@@ -1,20 +1,17 @@
-package l4q3;
-
 import java.util.Scanner;
 
 public class L4Q3 {
 
     public static void main(String[] args) {
-        double avg, std;
-        int max = 0, min = 0, N = 0,  score = 0, sum = 0, sum_sq = 0, temp;
         Scanner s = new Scanner(System.in);
+        double avg, std;
+        int max = 0, min = 0, N = 0, score = 0, sum = 0, sum_sq = 0, temp;
         
         do{
             System.out.print("Enter a score (negative score to quit): ");
             score = s.nextInt();
             
             if (score >= 0){
-                
                 N++;
                 
                 if (N == 1){
@@ -48,5 +45,4 @@ public class L4Q3 {
             System.out.printf("Standard Deviation: %-6.2f\n", std);
         }
     }
-    
 }

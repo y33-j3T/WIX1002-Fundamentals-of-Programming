@@ -1,5 +1,3 @@
-package l4q6;
-
 import java.util.Random;
 
 public class L4Q6 {
@@ -20,9 +18,8 @@ public class L4Q6 {
         } else {
             num_digit = 1;
         }
+        
         System.out.println("The integer is " + num);
-        System.out.println("The number of digits in the integer is " + num_digit);
-                
+        System.out.println("The number of digits in the integer is " + num_digit);           
     }
-    
 }

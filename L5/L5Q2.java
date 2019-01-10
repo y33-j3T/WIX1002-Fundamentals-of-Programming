@@ -1,5 +1,3 @@
-package l5q2;
-
 import java.util.Random;
 
 public class L5Q2 {
@@ -29,10 +27,8 @@ public class L5Q2 {
             
         } while (i<10);
             
-            
         for (int num : int_list){
             System.out.println(num);
         }
     }
-    
 }

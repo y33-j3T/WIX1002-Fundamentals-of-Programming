@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CarLoanPayment {
+public class L2Q2 {
     
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -25,7 +25,5 @@ public class CarLoanPayment {
         M = (P - D) * (1 + R * Y / 100) / (Y * 12);
         
         System.out.printf("The monthly payment for car loan is %-6.2f", M);
-        
     }
-    
 }

@@ -1,5 +1,3 @@
-package l8q6;
-
 public class BurgerStall {
     private static int totalBurgerSold = 0;
     private final String ID;
@@ -42,7 +40,5 @@ public class BurgerStall {
         System.out.println(C.toString());
         
         System.out.println("Total burger sold: " + BurgerStall.getTotalBurger());
-       
     }
-    
 }

@@ -1,27 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package l5q5;
-
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class L5Q5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         Scanner s = new Scanner(System.in);
         
-        //generates 20 random integers
+//        generates 20 random integers
         int[] arr = new int[20];
         System.out.println("A list of random integer within 0 to 100");
         for(int i=0 ; i<20 ; i++){
@@ -34,7 +20,7 @@ public class L5Q5 {
         }
         System.out.println();
         
-        //Bubble sort array in descending order
+//        Bubble sort array in descending order
         System.out.println("Array in descending order");
         for(int i=0 ; i<arr.length-1 ; i++){
             for(int j=0 ; j<arr.length-1-i ; j++){
@@ -46,21 +32,22 @@ public class L5Q5 {
             }
         }
         
-        //print array
+//        print array
         for (int i=0 ; i<arr.length ; i++){
             System.out.print(arr[i]);
             
-            if(i==19) break;
+            if(i==19) 
+                break;
             
             System.out.print(", ");
         }
         System.out.println();
         
-        //Get a number to search for
+//        Get a number to search for
         System.out.print("Enter a number to search: ");
         int num = s.nextInt();
         
-        //Using linear search
+//        Using linear search
         for(int i=0 ; i<arr.length ; i++){
             if(num==arr[i]){
                 System.out.println(num + " found");
@@ -69,7 +56,7 @@ public class L5Q5 {
             } 
         }
         
-        //Using binary search
+//        Using binary search
         int low = 0;
         int high = arr.length-1;
         int middle;
@@ -92,5 +79,4 @@ public class L5Q5 {
         System.out.println(num + " found");
         System.out.println("Binary Search - " + loop_count + " loop(s)");
     }
-    
 }

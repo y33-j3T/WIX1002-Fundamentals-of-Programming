@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package vival3q2;
-
 import java.util.Random;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class VivaL3Q2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Random r = new Random();
         int randint = r.nextInt(1000);
@@ -114,5 +100,4 @@ public class VivaL3Q2 {
         //for loop checking ends
         //}
     }
-    
 }

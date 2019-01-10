@@ -1,5 +1,3 @@
-package l7q3;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -24,7 +22,6 @@ public class L7Q3 {
             
             s.close();
             p.close();
-            
         } catch (FileNotFoundException e){
             System.out.println("File not found");
         } catch (IOException e){

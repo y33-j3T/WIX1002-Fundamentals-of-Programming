@@ -1,21 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package vival3q1;
-
 import java.util.Scanner;
 
-/**
- *
- * @author Yee Jet Tan
- */
 public class VivaL3Q1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n1, n2, n3, w1 = 0, w2 = 0, ans = 0, temp = 0;
@@ -138,9 +124,7 @@ public class VivaL3Q1 {
                     case '-':
                         ans = temp-n3;
                         break;
-                }
-                
-                
+                }   
             }
             
             else if (w1 < w2){
@@ -183,12 +167,9 @@ public class VivaL3Q1 {
                         ans = n1-temp;
                         break;
                 }
-                
             }
         
         System.out.println(n1 + " " + opr1 + " " + n2 + " " + opr2 + " " + n3 + " = " + ans);
-        
         }
     }
-    
 }

@@ -1,12 +1,11 @@
-package l4q2;
-
 import java.util.Scanner;
 
 public class L4Q2 {
 
     public static void main(String[] args) {
-        System.out.print("Enter an integer: ");
         Scanner s = new Scanner(System.in);
+
+        System.out.print("Enter an integer: ");
         int n = s.nextInt();
         int total = 0;
         
@@ -17,6 +16,5 @@ public class L4Q2 {
         }
         
         System.out.println(total);
-    }
-    
+    }    
 }

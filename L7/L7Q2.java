@@ -1,5 +1,3 @@
-package l7q2;
-
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,5 +26,4 @@ public class L7Q2 {
             System.out.println("IO Error: " + e.getMessage());
         }
     }
-    
 }

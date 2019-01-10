@@ -1,5 +1,3 @@
-package l8q3;
-
 import java.util.Scanner;
 
 public class WeightCalculator {

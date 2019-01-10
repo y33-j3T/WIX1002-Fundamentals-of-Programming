@@ -1,5 +1,3 @@
-package l6q6;
-
 public class L6Q6 {
 
     public static void main(String[] args) {
@@ -43,7 +41,6 @@ public class L6Q6 {
             if (arg % i == 0) 
                 return false;
         }
-        
         return true;
     }
     
@@ -54,7 +51,6 @@ public class L6Q6 {
             reverse = reverse * 10 + arg % 10;
             arg = arg / 10;
         }
-        
         return isPrime(arg) && isPrime(reverse);
     }
 }

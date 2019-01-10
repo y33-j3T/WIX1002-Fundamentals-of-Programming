@@ -1,6 +1,3 @@
-
-package l6q1;
-
 import java.util.Scanner;
 
 public class L6Q1 {
@@ -13,8 +10,7 @@ public class L6Q1 {
         
         for(int nums : triangular_nums(n)){
             System.out.println(nums);
-        }
-        
+        }        
     }
     
     public static int[] triangular_nums(int n){
@@ -26,9 +22,7 @@ public class L6Q1 {
                 sum += j;
             }
             nums[i-1] = sum;
-        }
-        
+        }        
         return nums;
-    }
-    
+    }    
 }

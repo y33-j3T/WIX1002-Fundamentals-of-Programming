@@ -1,5 +1,3 @@
-package l8q5;
-
 import java.util.Random;
 
 public class Game{
@@ -50,5 +48,4 @@ public class Game{
         System.out.println("Player 1 score: " + P1.getScore());
         System.out.println("Player 2 score: " + P2.getScore());
     }
-    
 }

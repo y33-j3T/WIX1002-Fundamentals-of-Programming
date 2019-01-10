@@ -1,5 +1,3 @@
-package l8q7;
-
 public class Money {
     private int amount;
     private int note100=0;

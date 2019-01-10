@@ -1,5 +1,3 @@
-package l6q3;
-
 import java.util.Random;
 
 public class L6Q3 {
@@ -24,8 +22,5 @@ public class L6Q3 {
             System.out.print(list[i]);
         }
         System.out.println();
-           
-    
     }
-    
 }

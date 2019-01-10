@@ -1,5 +1,3 @@
-package l7q1;
-
 import java.io.EOFException;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -41,7 +39,7 @@ public class L7Q1 {
         } 
         
         try{
-            ObjectInputStream in = new ObjectInputStream(new FileInputStream("C:\\users\\Yee Jet Tan\\Desktop\\courses.dat"));
+            ObjectInputStream in = new ObjectInputStream(new FileInputStream("courses.dat"));
             Scanner s = new Scanner(System.in);
             
             System.out.print("Enter a course code: ");

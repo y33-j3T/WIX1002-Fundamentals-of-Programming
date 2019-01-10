@@ -145,6 +145,7 @@ public class Pokemon {
         }
         b.setHitPoint(b.getHitPoint() - a.getAttack() + b.getDefense());
     }
+    
     @Override
     public String toString(){
         return "ID: " + ID +

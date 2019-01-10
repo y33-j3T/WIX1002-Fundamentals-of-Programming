@@ -31,7 +31,6 @@ public class Viva3 {
                     break;
                 }
             }
-            
         }
         
         System.out.println(Eung.toString());
@@ -39,5 +38,4 @@ public class Viva3 {
         System.out.println(Alvin.toString());
         System.out.println();
     }
-    
 }

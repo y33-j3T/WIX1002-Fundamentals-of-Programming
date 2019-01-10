@@ -1,5 +1,3 @@
-package l7q6;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -13,9 +11,10 @@ public class L7Q6 {
         int[] qty = new int[5];
         double[] prodPrice = new double[10];
         int i=0, j=0;
+        
         try{
-            Scanner sp = new Scanner(new FileInputStream("C:\\users\\Yee Jet Tan\\desktop\\product.txt"));
-            Scanner so = new Scanner(new FileInputStream("C:\\users\\Yee Jet Tan\\desktop\\order.txt"));
+            Scanner sp = new Scanner(new FileInputStream("product.txt"));
+            Scanner so = new Scanner(new FileInputStream("order.txt"));
             
             while(sp.hasNextLine()){
                 String[] prod = sp.nextLine().split(",");
@@ -55,9 +54,6 @@ public class L7Q6 {
             so.close();
         } catch (FileNotFoundException e){
             System.out.println("File not found");
-        }
-        
-         
+        }    
     }
-    
 }

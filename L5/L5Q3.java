@@ -1,13 +1,11 @@
-package l5q3;
-
 import java.util.Random;
 import java.util.Scanner;
 
 public class L5Q3 {
 
     public static void main(String[] args) {
-        Random r = new Random();
         Scanner s = new Scanner(System.in);
+        Random r = new Random();
         
         //get no. of employees
         int N;
@@ -29,5 +27,4 @@ public class L5Q3 {
             System.out.println();
         }
     }
-    
 }
