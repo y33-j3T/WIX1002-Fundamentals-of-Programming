@@ -11,3 +11,5 @@
 #### Q5 Read & display contents of a binary file with multiple variables
 
 #### Q6 Merge data from 2 text files
+
+__All input & output files are stored in L7 IO__
