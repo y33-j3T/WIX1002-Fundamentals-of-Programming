@@ -2,7 +2,7 @@
 
 #### Q1 Store generated scores in array & operate on them
 
-#### Q2 Generte 10 non-duplicate random integers within 0-20
+#### Q2 Generate 10 non-duplicate random integers within 0-20
 
 #### Q3 Generate 7 work days hours for N employees & operate on them
 
