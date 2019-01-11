@@ -8,6 +8,6 @@
 
 #### Q4 Rotate a 3x3 matrix 90 degrees clockwise
 
-#### Q5 Generate & sort 20 random integers, search the array using binary search & linear search then compare their performance
+#### Q5 Generate & sort 20 random integers, search the array using binary search & linear search
 
 #### Q6 Create pascal triangle in a square matrix
