@@ -8,7 +8,7 @@
 
 #### Q4 Display a calendar
 
-#### Q5 Make a dice game where the first player to reach 100 points wins
+#### Q5 A dice game 
 
 #### Q6 Display number of digits in a non-negative random integer
 
