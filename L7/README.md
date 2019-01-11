@@ -12,4 +12,4 @@
 
 #### Q6 Merge data from 2 text files
 
-Note: __All input & output files are stored in L7 IO__
+Note: All input & output files are stored in L7 IO
