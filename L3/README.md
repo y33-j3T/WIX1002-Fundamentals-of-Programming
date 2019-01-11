@@ -1,13 +1,13 @@
 # Lesson 3 - Flow of Control (Selection)
 
-#### Q1
+#### Q1 Make a simple calculator
 
-#### Q2
+#### Q2 Generate & display a random integer in word form
 
-#### Q3
+#### Q3 Calculate total commission 
 
-#### Q4
+#### Q4 Make a simple 2 player dice game
 
-#### Q5
+#### Q5 Solve 2x2 linear equations with Cramer's rule
 
-#### Q6 
+#### Q6 Determine location of a point relative to generated circle
