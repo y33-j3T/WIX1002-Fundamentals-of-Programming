@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VivaL3Q1 {
+public class TestL3Q1 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

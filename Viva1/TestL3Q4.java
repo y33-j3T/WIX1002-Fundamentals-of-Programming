@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class VivaL3Q4 {
+public class TestL3Q4 {
 
     public static void main(String[] args) {
         Random r = new Random();

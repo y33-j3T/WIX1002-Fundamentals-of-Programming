@@ -1,6 +1,4 @@
-package viva3;
-
-public class Viva3 {
+public class TestL9Q1 {
 
     public static void main(String[] args) {
         Pokemon Eung = new Pokemon("001", "Choon Eung", "Water");
