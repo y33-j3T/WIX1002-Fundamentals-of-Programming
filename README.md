@@ -1,5 +1,5 @@
 # Fundamentals-of-Programming-Java
-### *Java programming lab works from University of Malaya, Malaysia (2018, semester 1)*
+### *Java programming lab works from University of Malaya, Malaysia (2018)*
 
 ### L1 Getting Started with Java
 
