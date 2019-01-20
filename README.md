@@ -1,5 +1,5 @@
 # Fundamentals-of-Programming-Java
-### *Java code examples for beginners*
+### *Java programming lab works from University of Malaya*
 
 ### L1 Getting Started with Java
 
