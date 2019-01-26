@@ -1,6 +1,8 @@
 # Fundamentals-of-Programming-Java
 *Java programming lab works from University of Malaya, Malaysia (2018)*
 
+*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+
 #### L1 Getting Started with Java
 
 #### L2 Java Fundamentals
