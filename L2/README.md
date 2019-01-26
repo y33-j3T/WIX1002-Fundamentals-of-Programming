@@ -1,4 +1,4 @@
-# Lesson 2 - Java Fundamentals
+# Lab 2 - Java Fundamentals
 
 #### Q1 Convert temperature in degree Fahrenheit to degree Celsius
 

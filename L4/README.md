@@ -1,4 +1,4 @@
-# Lesson 4 - Flow of Control (Repetition)
+# Lab 4 - Flow of Control (Repetition)
 
 #### Q1 Display factors of a number in increasing order
 

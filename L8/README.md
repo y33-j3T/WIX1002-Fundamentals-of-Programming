@@ -1,4 +1,4 @@
-# Lesson 8 - Class
+# Lab 8 - Class
 
 #### Q1 Class "Number"
 

@@ -1,4 +1,4 @@
-# Lesson 7 - File Input and Output
+# Lab 7 - File Input and Output
 
 #### Q1 Store table into a binary file & read from it
 

@@ -1,4 +1,4 @@
-# Lesson 3 - Flow of Control (Selection)
+# Lab 3 - Flow of Control (Selection)
 
 #### Q1 A simple calculator
 

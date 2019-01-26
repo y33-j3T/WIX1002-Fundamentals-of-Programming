@@ -1,4 +1,4 @@
-# Lesson 5 - Arrays
+# Lab 5 - Arrays
 
 #### Q1 Store generated scores in array & operate on them
 

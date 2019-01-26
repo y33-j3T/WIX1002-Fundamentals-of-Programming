@@ -1,4 +1,4 @@
-# Lesson 6 - Java Methods
+# Lab 6 - Java Methods
 
 #### Q1 Method that returns triangular number
 
