@@ -8,7 +8,7 @@
 
 #### Q4 Display a calendar
 
-#### Q5 A dice game 
+#### Q5 Dice game 
 
 #### Q6 Display number of digits in a non-negative random integer
 
