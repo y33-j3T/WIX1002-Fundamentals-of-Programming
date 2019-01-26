@@ -21,8 +21,6 @@
 
 ### L10 Polymorphism
 
-![Java Logo](https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png)
-
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
 </p>
