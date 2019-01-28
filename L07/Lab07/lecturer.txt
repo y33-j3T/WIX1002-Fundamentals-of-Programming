@@ -1,0 +1,24 @@
+WMES1105
+Principle of Information Systems
+2009
+1
+3
+45
+WXES1109
+Systems and Computers Organization
+2009
+1
+4
+162
+WXES1112
+Computing Mathematics 1
+2009
+2
+4
+122
+WXES1114
+Programming I
+2009
+2
+5
+98

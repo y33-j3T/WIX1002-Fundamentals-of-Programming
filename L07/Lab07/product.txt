@@ -1,0 +1,7 @@
+SK020,Enfagrow A+,36,79
+SK042,Ayamas Nuget Crispy,9.99
+SK013,100 Plus,6.49
+SK066,Ali Cafe,8.99
+SK079,Dettol Natural,4.99
+SK088,Jasmine Pearl,37.99
+SK023,Johnson PH 5.5,5.99
