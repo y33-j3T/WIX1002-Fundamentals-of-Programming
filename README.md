@@ -1,27 +1,35 @@
-# Fundamentals-of-Programming-Java
+# Fundamentals of Programming - Java
 *Java programming lab works from University of Malaya, Malaysia (2018)*
 
-*Questions for each Lab are in the `Lab(number).pdf` file of each folder*
+## Table of content
+- [L01 Getting Started with Java](./L01)
 
-#### L1 Getting Started with Java
+- [L02 Java Fundamentals](./L02)
 
-#### L2 Java Fundamentals
+- [L03 Flow of Control (Selection)](./L03)
 
-#### L3 Flow of Control (Selection)
+- [L04 Flow of Control (Repetition)](./L04)
 
-#### L4 Flow of Control (Repetition)
+- [L05 Arrays](./L05)
 
-#### L5 Arrays
+- [L06 Java Methods](./L06)
 
-#### L6 Java Methods
+- [L07 File Input and Output](./L07)
 
-#### L7 File Input and Output
+- [L08 Class](./L08)
 
-#### L8 Class
+- [L09 Inheritance](./L09)
 
-#### L9 Inheritance
+- [L10 Polymorphism](./L10)
 
-#### L10 Polymorphism
+- [Viva1](./Viva1)
+
+- [Viva2](./Viva2)
+
+- [Viva3](./Viva3)
+
+## Things to note
+- Questions for each lab can be found in the` Lab(number).pdf` file of each folder.
 
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
