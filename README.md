@@ -1,5 +1,5 @@
 # Fundamentals of Programming - Java
-*Java programming lab works from University of Malaya, Malaysia (2018)*
+Java programming lab works from University of Malaya, Malaysia (2018)
 
 ## Table of content
 - [L01 Getting Started with Java](./L01)
@@ -29,7 +29,9 @@
 - [Viva3](./Viva3)
 
 ## Things to note
-- Questions for each lab can be found in the` Lab(number).pdf` file of each folder.
+- Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
+
+- Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
 
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
