@@ -31,7 +31,7 @@ Java programming lab works from University of Malaya, Malaysia (2018)
 ## Things to note
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 
-- Additional data or input/ouput files in the form of `.txt`, `.pdf` or `.py` for each lab are included in their respective folders.
+- Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
 
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
