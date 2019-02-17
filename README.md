@@ -1,5 +1,5 @@
 # Fundamentals of Programming - Java
-This course, [Fundamentals of Programming - Java][1] is one of the course I took during my studies in This repository consists of my solutions on the labaratories of the course as of year 2018.
+This course, Fundamentals of Programming - Java is one of the course I took during my studies in [University of Malaya, Malaysia][1] under [Faculty of Computer Science and Information Technology][2] This repository consists of my solutions on the labaratories of the course as of year 2018.
 
 ## Table of content
 - [L01 Getting Started with Java](./L01)
@@ -36,3 +36,6 @@ This course, [Fundamentals of Programming - Java][1] is one of the course I took
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
 </p>
+
+[1]: https://www.um.edu.my/
+[2]: http://www.fsktm.um.edu.my/
