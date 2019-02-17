@@ -1,5 +1,5 @@
 # Fundamentals of Programming - Java
-Java programming lab works from University of Malaya, Malaysia (2018)
+This course, [Fundamentals of Programming - Java][1] is one of the course I took during my studies in This repository consists of my solutions on the labaratories of the course as of year 2018.
 
 ## Table of content
 - [L01 Getting Started with Java](./L01)
