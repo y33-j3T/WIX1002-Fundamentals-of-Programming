@@ -12,4 +12,4 @@
 
 - [Q6 Merge data from 2 text files](./L7Q6.java)
 
-Note: All input & output files are stored in [Lab07](./Lab07) and [L7 IO](./L7 IO)
+Note: All input & output files are stored in [Lab07](./Lab07) and [L7 IO](./L7%20IO)
