@@ -8,6 +8,7 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 
 ## Laboratories
 - [L01 Getting Started with Java](./L01)
+
 - [L02 Java Fundamentals](./L02)
 - [L03 Flow of Control (Selection)](./L03)
 - [L04 Flow of Control (Repetition)](./L04)
