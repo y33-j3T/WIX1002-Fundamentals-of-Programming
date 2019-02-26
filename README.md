@@ -33,7 +33,7 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 
 - [Viva3](./Viva3)
 
-## Things to note
+## Things%20to%20note
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 
 - Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
