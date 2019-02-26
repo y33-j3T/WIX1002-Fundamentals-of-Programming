@@ -5,6 +5,7 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 - [Laboratories](#Laboratories)
 
 - [Things to note](#Things-to-note)
+- [Contribution](#Contribution)
 
 ## Laboratories
 - [L01 Getting Started with Java](./L01)
@@ -37,6 +38,8 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 
 - Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
+
+## Contribution
 
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
