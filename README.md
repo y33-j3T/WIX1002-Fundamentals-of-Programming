@@ -4,7 +4,7 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 ## Table of content
 - [Laboratories](#Laboratories)
 
-- [Things to note](#"Things to note")
+- [Things to note](#Things%20to%20note)
 
 ## Laboratories
 - [L01 Getting Started with Java](./L01)
