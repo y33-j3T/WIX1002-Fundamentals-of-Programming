@@ -2,6 +2,11 @@
 Fundamentals of Programming - Java was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. This repository consists of my solutions on the labaratories of the course as of year 2018.
 
 ## Table of content
+- [Laboratories](#Laboratories)
+
+- [Things to note](#Things to note)
+
+## Laboratories
 - [L01 Getting Started with Java](./L01)
 
 - [L02 Java Fundamentals](./L02)
