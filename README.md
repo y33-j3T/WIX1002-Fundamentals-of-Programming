@@ -26,6 +26,7 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 - Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
 
 ### Contribution
+- Please refer to [CONTRIBUTION.md](./CONTRIBUTION.md) for details.
 
 <p align="center">
   <img width="768" height="768" src="https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png">
