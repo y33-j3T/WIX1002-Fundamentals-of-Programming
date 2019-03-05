@@ -5,7 +5,7 @@ My solutions for the lab works of a Java programming course.
 - [Introduction](#Introduction)
 - [Laboratories](#Laboratories)
 - [Note](#Note)
-- [Contribution](#Contribution)
+- [Contributing](#Contributing)
 
 ## Introduction
 Fundamentals of Programming - Java was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. This repository consists of my solutions on the labaratories of the course as of December 2018.
