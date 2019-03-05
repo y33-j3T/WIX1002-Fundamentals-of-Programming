@@ -1,10 +1,14 @@
 # Fundamentals of Programming - Java
-Fundamentals of Programming - Java was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. This repository consists of my solutions on the labaratories of the course as of December 2018.
+My solutions for the lab works of a Java programming course.
 
 ## Contents
+- [Introduction](#Introduction)
 - [Laboratories](#Laboratories)
-- [Things to note](#Things-to-note)
+- [Note](#Note)
 - [Contribution](#Contribution)
+
+## Introduction
+Fundamentals of Programming - Java was one of the courses I took during my studies in [University of Malaya, Malaysia][1] under the [Faculty of Computer Science and Information Technology][2]. This repository consists of my solutions on the labaratories of the course as of December 2018.
 
 ## Laboratories
 - [L01 Getting Started with Java](./L01)
@@ -25,8 +29,8 @@ Fundamentals of Programming - Java was one of the courses I took during my studi
 - Questions for each lab can be found in the `Lab(number).pdf` file of each folder.
 - Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
 
-## Contribution
-- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details.
+## Contributing
+- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
 Fundamentals of Programming - Java is licensed under the [MIT license](./LICENSE).
