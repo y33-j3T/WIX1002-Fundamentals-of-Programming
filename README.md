@@ -1,5 +1,5 @@
 # Fundamentals of Programming - Java
-My solutions for the lab works of a Java programming course.
+My solutions for the lab works of a university Java programming course.
 
 ## Contents
 - [Introduction](#Introduction)
